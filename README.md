@@ -43,8 +43,7 @@ When selecting the Region for your VM, choose a region other than where you live
 	3.	Retrieve the Public IP for your new VM and connect to it using Remote Desktop Connection.
 	4.	From within your VM, visit WhatIsMyIPAddress.com again and note the IP Address displayed for your VM.
 
-	💡 Note:
-If your VM region is set to another country (e.g., Japan), you may notice that any Google searches you perform appear in Japanese. This is because the server believes the VM is physically in Japan.
+	💡 Note: If your VM region is set to another country (e.g., Japan), you may notice that any Google searches you perform appear in Japanese. This is because the server believes the VM is physically in Japan.
 
 VPN Setup Steps
 
@@ -57,7 +56,7 @@ If you haven’t already, set up your free Proton VPN account.
 Installing and using the VPN may interrupt the connection to your VM.
 
 	2.	Once installed, open the Proton VPN application and attempt to connect to a server.
-	💡 Note:
+	💡 Note: There is a possibility that wont be able to choose the region that you would like to if using the free version. Just make sure you select a different region from the one in which you are in.
 
 
 	3.	Once connected to a VPN server within your VM, revisit WhatIsMyIPAddress.com and refresh the page. Compare the new IP address to the one you noted earlier to see how your VM’s “location” has changed.
